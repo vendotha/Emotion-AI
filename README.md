@@ -111,7 +111,7 @@ The model is trained to recognize **7 distinct facial expressions**:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/TARUN2K3/Emotion-Detection-CNN.git
+git clone https://github.com/vendotha/Emotion-AI.git
 cd Emotion-Detection-CNN
 ```
 
@@ -145,7 +145,7 @@ numpy>=1.21.0
 Ensure your project directory contains these essential files:
 
 ```
-Emotion-Detection-CNN/
+Emotion-AI/
 ├── website.py                              # Flask Backend
 ├── templates/
 │   └── index.html                          # Web Interface
