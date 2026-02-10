@@ -387,7 +387,7 @@ Building intelligent vision systems with Python and TensorFlow
 
 Have questions or suggestions? Feel free to reach out!
 
-- **GitHub Issues**: [Create an issue](https://github.com/vendotha/Emotion-Detection-CNN/issues)
+- **GitHub Issues**: [Create an issue](https://github.com/vendotha/Emotion-AI/issues)
 - **Email**: vendotha@gmail.com
 
 ---
