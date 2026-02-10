@@ -9,7 +9,9 @@
 
 **Real-Time Emotion Recognition powered by Convolutional Neural Networks**
 
-[Features](#-key-features) • [Installation](#-installation) • [Usage](#-usage) • [Tech Stack](#-tech-stack) • [Screenshots](#-screenshots)
+[![Live Demo](https://img.shields.io/badge/🤗%20Hugging%20Face-Live%20Demo-yellow?style=for-the-badge)](https://huggingface.co/spaces/vendotha/emotion-ai-vision)
+
+[🚀 Live Demo](https://huggingface.co/spaces/vendotha/emotion-ai-vision) • [Features](#-key-features) • [Installation](#-installation) • [Usage](#-usage) • [Tech Stack](#-tech-stack) • [Screenshots](#-screenshots)
 
 </div>
 
@@ -30,6 +32,22 @@ The model is trained to recognize **7 distinct facial expressions**:
 - 😐 **Neutral**
 - 😢 **Sad**
 - 😲 **Surprised**
+
+---
+
+## 🌐 Try It Now!
+
+**Experience Emotion AI live without any installation!**
+
+<div align="center">
+
+[![Try on Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-Try_Live_Demo-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000)](https://huggingface.co/spaces/vendotha/emotion-ai-vision)
+
+**[Launch Live Demo →](https://huggingface.co/spaces/vendotha/emotion-ai-vision)**
+
+*No installation required • Works in your browser • Instant results*
+
+</div>
 
 ---
 
@@ -112,7 +130,7 @@ The model is trained to recognize **7 distinct facial expressions**:
 
 ```bash
 git clone https://github.com/vendotha/Emotion-AI.git
-cd Emotion-Detection-CNN
+cd Emotion-AI
 ```
 
 ### Step 2: Install Dependencies
@@ -158,6 +176,8 @@ Emotion-AI/
 ---
 
 ## 🚀 Usage
+
+> **💡 Quick Start**: Want to try it immediately? Check out our [live demo on Hugging Face Spaces](https://huggingface.co/spaces/vendotha/emotion-ai-vision) - no installation needed!
 
 ### Starting the Application
 
